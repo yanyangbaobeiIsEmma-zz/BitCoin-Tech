@@ -8,3 +8,6 @@ Some resources and books about the state-of-art blockchain technology
 ###### Bitcoin and Cryptocurrency Technology: https://www.youtube.com/channel/UCNcSSleedtfyDuhBvOQzFzQ 
 ###### BlockChain@Berkely: https://www.youtube.com/channel/UC5sgoRfoSp3jeX4DEqKLwKg
 
+### Smart Contract
+###### Solidity Doc https://solidity.readthedocs.io/en/develop/
+
